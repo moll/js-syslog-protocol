@@ -1,7 +1,9 @@
 SyslogProtocol.js
 ========
 [![NPM version][npm-badge]](http://badge.fury.io/js/syslog-protocol)
+[![Build status][travis-badge]](https://travis-ci.org/moll/js-syslog-protocol)
 [npm-badge]: https://badge.fury.io/js/syslog-protocol.png
+[travis-badge]: https://travis-ci.org/moll/js-syslog-protocol.png?branch=master
 
 SyslogProtocol.js is a Syslog ([RFC 3164][rfc3164]) format parser that supports
 high-precision timestamps ([RFC 3339][rfc3339], [ISO 8601][iso8601]).
